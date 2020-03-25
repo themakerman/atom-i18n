@@ -292,13 +292,13 @@ Menu:
     value: "मदद(&H)"
     submenu:
       "View &Terms of Use":
-        value: "उपयोग की शर्तें देखें और"
+        value: "उपयोग की शर्तें देखें और &T"
       "View &License":
-        value: "देखें और लाइसेंस"
+        value: "देखें और लाइसेंस &L"
       "Restart and Install Update":
         value: "अद्यतन को पुनरारंभ और स्थापित करें"
       "Check for Update":
-        value: "अपडेट के लिये जांचें"
+        value: "अद्यतन के लिए जाँच कर रहा है"
       "Checking for Update":
         value: "अद्यतन के लिए जाँच कर रहा है"
       "Downloading Update":
@@ -312,7 +312,7 @@ Menu:
       "Report Issue":
         value: "रिपोर्ट जारी करना"
       "Search Issues":
-        value: "मुद्दे खोजें"
+        value: "मुद्दे खोजे"
       "About Atom":
         value: "एटम के बारे में"
       "Welcome Guide":
